@@ -1,0 +1,30 @@
+{
+  "category": "Spirits and Nature",
+  "description": "The spiritual entities and personifications of natural forces in Turkic mythology and ontology.",
+  "concepts": [
+    {
+      "term": "Umay",
+      "orhun": "𐰆𐰢𐰖",
+      "meaning": "The goddess of fertility, protector of women and children. Associated with the benevolent aspects of the earth.",
+      "note": "Often depicted as a mother figure or a swan."
+    },
+    {
+      "term": "Erlik",
+      "orhun": "𐰼𐰠𐰃𐰚",
+      "meaning": "The lord of the underworld and the first human to die. He governs the realm of spirits and shadows.",
+      "note": "Often seen as an antagonist but also a necessary part of the cosmic balance."
+    },
+    {
+      "term": "Su İyesi",
+      "orhun": "𐰽𐰆𐰉:𐰃𐰘𐰤𐰃",
+      "meaning": "The Water Spirit. Every lake, river, and spring is believed to have its own protective spirit.",
+      "note": "Humans must show respect to these spirits to avoid drought or floods."
+    },
+    {
+      "term": "Yol Tengri",
+      "orhun": "𐰖𐰆𐰞:𐱅𐰭𐰼𐰃",
+      "meaning": "The Spirit of the Road or Fate. He guides travelers and decides the paths of individuals.",
+      "note": "Represents the dynamic aspect of fate and motion."
+    }
+  ]
+}

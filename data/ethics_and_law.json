@@ -1,0 +1,30 @@
+{
+  "category": "Ethics and Political Philosophy",
+  "description": "The moral and legal framework that governs the relationship between the ruler, the people, and the divine.",
+  "concepts": [
+    {
+      "term": "Kut",
+      "orhun": "𐰴𐰆𐱃",
+      "meaning": "Divine charisma or heavenly mandate granted by Tengri to a ruler. It represents vitality, prosperity, and the right to rule.",
+      "note": "Kut is revocable if the ruler fails to uphold justice or Töre."
+    },
+    {
+      "term": "Töre",
+      "orhun": "𐱅𐰇𐰼𐰇",
+      "meaning": "The unwritten customary law and cosmic order. It is the pillar of social stability and justice.",
+      "note": "Even the Khagan is subject to the Töre."
+    },
+    {
+      "term": "Bilig",
+      "orhun": "𐰋𐰃𐰠𐰃𐰏",
+      "meaning": "Wisdom and knowledge. Essential for a ruler to govern effectively and for individuals to live in harmony.",
+      "note": "Mentioned frequently in the Orkhon Inscriptions and Kutadgu Bilig."
+    },
+    {
+      "term": "Erdem",
+      "orhun": "𐰼𐱅𐰢",
+      "meaning": "Virtue or excellence. The quality of being morally and socially responsible.",
+      "note": "The core of individual ethics in ancient Turkic society."
+    }
+  ]
+}

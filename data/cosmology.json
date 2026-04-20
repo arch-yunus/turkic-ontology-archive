@@ -1,0 +1,36 @@
+{
+  "category": "Cosmology",
+  "description": "The structure of the universe in ancient Turkic thought, traditionally seen as a tripartite system.",
+  "concepts": [
+    {
+      "term": "Gök Tengri",
+      "orhun": "𐱅𐰭𐰼𐰃",
+      "meaning": "The Eternal Blue Sky, the supreme deity and creator who governs the cosmic order.",
+      "realm": "Upper World"
+    },
+    {
+      "term": "Yer-Su",
+      "orhun": "𐰘𐰼:𐰽𐰆𐰉",
+      "meaning": "Earth-Water. Represents the sacred natural world and the spirits inhabiting it.",
+      "realm": "Middle World"
+    },
+    {
+      "term": "Ötüken",
+      "orhun": "𐰇𐱅𐰇𐰚𐰤",
+      "meaning": "The sacred center of the earth, the holy forest and mountain range that serves as the heart of the Turkic people.",
+      "realm": "Middle World"
+    },
+    {
+      "term": "Uçmag",
+      "orhun": "𐰆𐰲𐰢𐰴",
+      "meaning": "Heaven. The realm where the souls of the virtuous go after death.",
+      "realm": "Upper World"
+    },
+    {
+      "term": "Tamu",
+      "orhun": "𐱃𐰢𐰆",
+      "meaning": "Hell or the Lower World. The realm of darkness and the punishment of the wicked.",
+      "realm": "Lower World"
+    }
+  ]
+}
